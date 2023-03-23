@@ -1,0 +1,15 @@
+/workspaces/Musicos/Musicos/bin/Debug/net7.0/Musicos
+/workspaces/Musicos/Musicos/bin/Debug/net7.0/Musicos.deps.json
+/workspaces/Musicos/Musicos/bin/Debug/net7.0/Musicos.runtimeconfig.json
+/workspaces/Musicos/Musicos/bin/Debug/net7.0/Musicos.dll
+/workspaces/Musicos/Musicos/bin/Debug/net7.0/Musicos.pdb
+/workspaces/Musicos/Musicos/obj/Debug/net7.0/Musicos.csproj.AssemblyReference.cache
+/workspaces/Musicos/Musicos/obj/Debug/net7.0/Musicos.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Musicos/Musicos/obj/Debug/net7.0/Musicos.AssemblyInfoInputs.cache
+/workspaces/Musicos/Musicos/obj/Debug/net7.0/Musicos.AssemblyInfo.cs
+/workspaces/Musicos/Musicos/obj/Debug/net7.0/Musicos.csproj.CoreCompileInputs.cache
+/workspaces/Musicos/Musicos/obj/Debug/net7.0/Musicos.dll
+/workspaces/Musicos/Musicos/obj/Debug/net7.0/refint/Musicos.dll
+/workspaces/Musicos/Musicos/obj/Debug/net7.0/Musicos.pdb
+/workspaces/Musicos/Musicos/obj/Debug/net7.0/Musicos.genruntimeconfig.cache
+/workspaces/Musicos/Musicos/obj/Debug/net7.0/ref/Musicos.dll
