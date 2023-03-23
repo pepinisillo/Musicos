@@ -1,4 +1,4 @@
-﻿class Musico
+﻿abstract class Musico
 {
 //campos
  public string nombre{get; set;}
@@ -16,10 +16,10 @@
     Console.WriteLine($"Hola soy {nombre}");
  }
  
-public virtual void toca()
+public abstract void toca(); /*
 {
     Console.WriteLine($"{nombre} está tocando su instrumento");
-}
+}*/
 }
 /*class Bajista
 {
@@ -60,7 +60,7 @@ internal class Program
     {
 
         List<Musico> grupo = new List<Musico>();
-        grupo.Add(new Musico("Joem"));
+       // grupo.Add(new Musico("Joem"));
         grupo.Add(new Bajista("Joe", "uiui"));
         grupo.Add(new Baterista("ko", "uuy"));
 
